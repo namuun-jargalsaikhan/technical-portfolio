@@ -1,7 +1,7 @@
 # Loan approval prediction
 
 ## Objective
-To predict *oan approval statu* based on applicants’ financial and demographic features.  
+To predict loan approval status based on applicants’ financial and demographic features.  
 
 ## Background
 - When financial institutions evaluate loan applications, it is important to correctly assess an applicant’s ability to repay.  
