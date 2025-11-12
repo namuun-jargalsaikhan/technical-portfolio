@@ -1,7 +1,6 @@
 # technical-portfolio
 
 Technical portfolio for the graduate defense evaluation.  
-This repository contains a collection of machine learning and data analysis projects I completed before.
 
 **Name:** Jargalsaikhan Namuun
 **Student ID:** 24510112  
