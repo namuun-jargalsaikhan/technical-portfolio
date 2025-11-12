@@ -21,14 +21,14 @@ This repository contains a collection of machine learning and data analysis proj
 - Used the UCI Heart Disease dataset to analyze patient features related to heart disease.  
 - Implemented DT Classifier and visualized the structure with color-coded nodes for interpretability.  
 - Created correlation and comparison charts between medical indicators and disease outcomes.  
-- Project report: [Heart Disease Prediction Report (PDF)](./데이터%20시각화/Heart%20disease%20prediction.pdf) 
+- Project report: [Heart Disease Prediction (PDF)](./데이터%20시각화/Heart%20disease%20prediction.pdf) 
 
 ## 3. Loan Approval Prediction  
 
 - Predicted loan approval status based on customer information from a Kaggle dataset.  
 - Built and compared several ML models.  
 - Evaluated model performance using accuracy, precision, recall, and F1-score.  
-- Project report: [Loan Approval Prediction Report (PDF)](./데이터%20활용%20및%20분석/Loan%20approval%20prediction.pdf) 
+- Project report: [Loan Approval Prediction (PDF)](./데이터%20활용%20및%20분석/Loan%20approval%20prediction.pdf) 
 
 ## 심사항목 
 
