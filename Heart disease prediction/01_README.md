@@ -8,7 +8,7 @@ To analyze clinical data of patients to predict heart disease using ML technique
 - Through visualization of patient data, I aimed to identify meaningful patterns and relationships between health indicators such as age, cholesterol, and ECG results.
 
 ## Dataset
-- Source: Public heart disease dataset  
+- Source: Public heart disease dataset from kaggle https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
 - Total samples: 918 patients  
 - Target variable: HeartDisease
 
