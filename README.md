@@ -18,6 +18,7 @@ Technical portfolio for the graduate defense evaluation.
   R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
 
   #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia 
+
   #2 Heart Disease Prediction  
 
 - **(데이터 활용 및 분석)**  
