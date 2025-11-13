@@ -11,15 +11,18 @@ Technical portfolio for the graduate defense evaluation.
 
 - **(데이터 수집 및 정제)**  
   Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부
+
   #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia 
 
 - **(데이터 시각화)**  
   R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
+
   #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia 
   #2 Heart Disease Prediction  
 
 - **(데이터 활용 및 분석)**  
   머신러닝 라이브러리를 이용한 재현 가능한 개발 결과물 공개 여부
+
   #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia  
   #2 Heart Disease Prediction  
   #3 Loan Approval Prediction
