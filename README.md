@@ -20,7 +20,7 @@ R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
 
 **Projects:**  
 - [Heart Disease Prediction](./Heart%20disease%20prediction/)
-- 
+
 - [Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia](./Analysis%20and%20prediction%20of%20Apartment%20Prices%20in%20Ulaanbaatar%2C%20Mongolia/) 
 
 ### 데이터 활용 및 분석  
