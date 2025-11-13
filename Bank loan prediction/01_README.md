@@ -10,10 +10,13 @@ To predict loan approval status based on applicants’ financial and demographic
 ## Dataset
 Three separate public datasets were combined into one unified dataset for analysis:
 - Dataset 1: 4269 records, contains applicant financial details
+  
   Source: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 - Dataset 2: 615 records, loan application details
+  
   Source: https://www.kaggle.com/datasets/ninzaami/loan-predication/data
 - Dataset 3: 5000 records, includes mortgage and asset information
+  
   Source: https://www.kaggle.com/datasets/atefehmirnaseri/bank-loan-granting  
 - Final dataset: 9459 records and 13 features
 
