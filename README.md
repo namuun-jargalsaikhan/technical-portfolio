@@ -7,6 +7,23 @@ Technical portfolio for the graduate defense evaluation.
 **Department:** Data Science department, Seoul National University of Science and Technology  
 **Advisor:** Prof. Yoon Yangin
 
+## 심사항목 
+
+- **(데이터 수집 및 정제)**  
+  Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부
+  #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia 
+
+- **(데이터 시각화)**  
+  R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
+  #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia 
+  #2 Heart Disease Prediction  
+
+- **(데이터 활용 및 분석)**  
+  머신러닝 라이브러리를 이용한 재현 가능한 개발 결과물 공개 여부
+  #1 Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia  
+  #2 Heart Disease Prediction  
+  #3 Loan Approval Prediction
+
 ## 1. Analysis and Prediction of Apartment Prices in Ulaanbaatar, Mongolia  
 
 - Collected and analyzed apartment ad data from Unegui.mn, the most widely used advertisement site in Mongolia.  
@@ -29,14 +46,5 @@ Technical portfolio for the graduate defense evaluation.
 - Evaluated model performance using accuracy, precision, recall, and F1-score.  
 - Project report: [Loan Approval Prediction (PDF)](./데이터%20활용%20및%20분석/Loan%20approval%20prediction.pdf) 
 
-## 심사항목 
 
-- **(데이터 수집 및 정제)**  
-  Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 - #1
-
-- **(데이터 시각화)**  
-  R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력 - #1, #2 
-
-- **(데이터 활용 및 분석)**  
-  머신러닝 라이브러리를 이용한 재현 가능한 개발 결과물 공개 여부 - #1, #2, #3
  
